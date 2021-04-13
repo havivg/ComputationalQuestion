@@ -16,10 +16,10 @@ namespace ComputationalQuestion
         {
             Assignment ass = new Assignment();
 
-            //ass.createDB();
-            ass.exeDB();
-            ass.loanRecycle();
-            ass.printPaymentsTable();
+            ass.createDB();
+            //ass.exeDB();
+            //ass.loanRecycle();
+            //ass.printPaymentsTable();
 
 
 
