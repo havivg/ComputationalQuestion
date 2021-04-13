@@ -12,7 +12,7 @@ namespace ComputationalQuestion
     {
         public List<Record> payments;
         public const double TOTAL_FUND = 36000;
-        public const double INTEREST1 = 3.25+0.1 / 100;
+        public const double INTEREST1 = (3.25+0.1) / 100;
         public const double INTEREST2 = 4.5 / 100;
         public const int NUMBER_OF_MONTHS1 = 36;
         public const int NUMBER_OF_MONTHS2 = 48;
